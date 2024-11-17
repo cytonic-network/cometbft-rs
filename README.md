@@ -4,7 +4,7 @@
 [![Docs][docs-image]][docs-link]
 [![Build Status][build-image]][build-link]
 [![Audit Status][audit-image]][audit-link]
-[![Apache 2.0 Licensed][license-image]][license-link]
+[![Apache 2.0 Licensed][license-image]](https://github.com/cytonic-network/cometbft-rs/blob/main/LICENSE)
 ![Rust Stable][rustc-image]
 
 [CometBFT] client framework in Rust with [TLA+ specifications](/docs/spec).
